@@ -1,0 +1,6 @@
+student_id,quiz_scores,attendance,performance
+S01,"85,90,88",95%,High Performer
+S02,"60,65,70",75%,Average
+S03,"30,40,35",60%,At Risk
+S04,"50,55,50",80%,Average
+S05,"90,92,95",98%,High Performer
